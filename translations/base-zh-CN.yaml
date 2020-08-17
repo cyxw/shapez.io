@@ -518,8 +518,8 @@ buildings:
             name: 旋转机（逆时针）
             description: 将图形逆时针旋转90度。
         fl:
-            name: Rotate (180)
-            description: Rotates shapes by 180 degrees.
+            name: 旋转机 (180度)
+            description: 将图形旋转180度.
 
     stacker:
         default:
